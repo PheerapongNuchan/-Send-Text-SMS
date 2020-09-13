@@ -7,7 +7,6 @@ To use SendSMS we need to install react-native-sms package. To install this
 # npm install -g react-native-cli
 # npm install react-native-sms 
 
-เราจะเพิ่มสิทธิ์ต่อไปนี้ใน AndroidMnifest.xml
 
 <uses-permission android:name="android.permission.READ_SMS"/>
 
